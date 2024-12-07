@@ -1,3 +1,13 @@
+Choose folder and open cmd
+
+COPY this and run: git clone https://github.com/Khrizie/App.git
+
+Open the sourcode, and make sure you are in the right path
+
+Copy and enter : npm i
+
+Copy and enter : npx expo start
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
